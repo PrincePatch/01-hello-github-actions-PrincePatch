@@ -21,6 +21,8 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 4: Merge your workflow file
 
+# Mon Projet 🚀
+
 _You're now able to write and run an Actions workflow! :sparkles:_
 
 Merge your changes so the action will be a part of the `main` branch.
